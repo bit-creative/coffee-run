@@ -1,0 +1,7 @@
+
+# Project Dependencies - We ignore this since user's of this repo need to install them locally any ways
+node_modules
+
+# IDE Folders & files - We don't want commit history to be nosiy because of our editors
+.vscode
+.idea
